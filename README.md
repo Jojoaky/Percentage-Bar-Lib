@@ -1,6 +1,6 @@
 # PercentageBar Library
 
-The PercentageBar library provides a simple and customizable way to generate percentage bars for visual representation of progress or levels.
+The Percentage Bar library provides a simple way to generate percentage bars in ascii from for arduino projects.
 
 ## Installation
 
