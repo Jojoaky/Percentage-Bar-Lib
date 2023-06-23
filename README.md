@@ -4,12 +4,8 @@ The PercentageBar library provides a simple and customizable way to generate per
 
 ## Installation
 
-1. Download the latest release from the [GitHub repository](https://github.com/your-username/percentage-bar).
-2. Extract the downloaded ZIP file.
-3. Move the extracted `PercentageBar` folder to your Arduino libraries directory.
-   - For Windows: `Documents\Arduino\libraries`
-   - For macOS: `~/Documents/Arduino/libraries`
-   - For Linux: `~/Arduino/libraries`
+1. Download the latest release from the [GitHub repository](https://github.com/JoJoaky/Percentage-Bar-Lib).
+2. Make sure that there are no subfolders called Percentage Bar
 
 ## Usage
 
