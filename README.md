@@ -1,6 +1,6 @@
 # PercentageBar Library
 
-The Percentage Bar library provides a simple way to generate percentage bars in ascii from for arduino projects.
+The Percentage Bar library provides a simple way to generate percentage bars in ascii form for arduino projects.
 
 ## Installation
 
