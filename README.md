@@ -30,10 +30,10 @@ The Percentage Bar library provides a simple way to generate percentage bars in 
 4. Generate the percentage bar using **generate()**:
      ```cpp
       bar.generate();
-      String progressBar = bar.generate();
+      String myPercentageBar = bar.generate();
 5. Access the generated percentage bar and the current percentage using **getBar()** and **getPercentage()** respectively:
      ```cpp
-      String progressBar = bar.getBar();
+      String myPercentageBar = bar.getBar();
       float percentage = bar.getPercentage();
 
 ## Examples
