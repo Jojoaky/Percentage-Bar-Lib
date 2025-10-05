@@ -1,6 +1,5 @@
 #ifndef PERCENTAGEBAR_H
 #define PERCENTAGEBAR_H
-#endif
 
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "Arduino.h"
@@ -82,3 +81,5 @@ String PercentageBar::generate() {
 float PercentageBar::getPercentage() {
   return currentPercentage;
 }
+
+#endif // PERCENTAGEBAR_H
